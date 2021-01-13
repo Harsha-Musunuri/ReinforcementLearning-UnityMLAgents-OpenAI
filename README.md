@@ -3,7 +3,7 @@ This repo has three projects that are highly commented for easy understanding. A
 # Projects
 - Frozen Lake Problem from Open AI gym
 - Cart Pole Problem from Open AI gym
-- Goal2Ball Problem - Unity3d ML Agents - Environment coded from scratch in Unity3d
+- Ball2Goal Problem - Unity3d ML Agents - Environment coded from scratch in Unity3d
 
 # Frozen Lake
 - Agent has to learn to avoid pit represented as H and reach the goal G, solved using Q-Learning algorithm.
