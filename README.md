@@ -7,8 +7,7 @@ This repo has three projects that are highly commented for easy understanding. A
 
 # Frozen Lake
 - Agent has to learn to avoid pit represented as H and reach the goal G, solved using Q-Learning algorithm.
-![Unity Env](readmeImages/FrozenLake.png)
-
+<img src="https://github.com/Harsha-Musunuri/ReinforcementLearning-UnityMLAgents-OpenAI/blob/master/readmeImages/FrozenLake.png" width="400" height="400">
 
 # Cart Pole
 - Env has cart and pole on a frictionless surface and the episode ends when the env reaches a certain goal points.
@@ -19,3 +18,5 @@ This repo has three projects that are highly commented for easy understanding. A
 - Fortunately, Unity 3d comes with ML agents where we can design and code an environment in C#
 - Coded the behavior required, an episode ends if the balls falls of the platform/reaches the goal points/maximum steps reached.
 ![Unity Env](readmeImages/Goal2Ball.png)<!-- .element height="50%" width="50%" -->
+<img src="https://github.com/Harsha-Musunuri/ReinforcementLearning-UnityMLAgents-OpenAI/blob/master/readmeImages/Goal2Ball.png" width="400" height="400">
+
