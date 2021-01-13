@@ -12,7 +12,7 @@ This repo has three projects that are highly commented for easy understanding. A
 
 # Cart Pole
 - Env has cart and pole on a frictionless surface and the episode ends when the env reaches a certain goal points.
-<img src="https://github.com/Harsha-Musunuri/ReinforcementLearning-UnityMLAgents-OpenAI/blob/master/readmeImages/CartPole.png" width="50" height="50">
+<img src="https://github.com/Harsha-Musunuri/ReinforcementLearning-UnityMLAgents-OpenAI/blob/master/readmeImages/CartPole.png" width="100" height="100">
 
 # Goal2Ball
 - Thrilled by the projects in this domain, I wanted to develop a RL environment myself. Similar to the envs we see in Open AI Gym.
