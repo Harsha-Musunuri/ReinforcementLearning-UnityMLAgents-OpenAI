@@ -17,6 +17,5 @@ This repo has three projects that are highly commented for easy understanding. A
 - Thrilled by the projects in this domain, I wanted to develop a RL environment myself. Similar to the envs we see in Open AI Gym.
 - Fortunately, Unity 3d comes with ML agents where we can design and code an environment in C#
 - Coded the behavior required, an episode ends if the balls falls of the platform/reaches the goal points/maximum steps reached.
-![Unity Env](readmeImages/Goal2Ball.png)<!-- .element height="50%" width="50%" -->
 <img src="https://github.com/Harsha-Musunuri/ReinforcementLearning-UnityMLAgents-OpenAI/blob/master/readmeImages/Goal2Ball.png" width="400" height="400">
 
